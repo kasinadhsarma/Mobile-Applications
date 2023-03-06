@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">form</string>
+    <string-array name="states">
+        <item>Telangana</item>
+        <item>Andra Pradesh</item>
+        <item>Tamilnadu</item>
+        <item>Gujarath</item>
+        <item> none </item>
+        <!-- Add more items as needed -->
+    </string-array>
+    <string name="select_state">Select State</string>
+</resources>
